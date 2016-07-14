@@ -1,0 +1,3 @@
+login: -t @login, -t ~@wip
+create_post: -t @create_post, -t ~@wip
+check_post: -t @check_post, -t ~@wip
